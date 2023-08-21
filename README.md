@@ -1,2 +1,2 @@
-# CardioCare-Mobile_App_Android
+# CardioCare
 A collaborative project on Android Application.
